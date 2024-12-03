@@ -20,7 +20,7 @@ A simple web-based application for registering and managing employee records. Bu
 
 ## Technologies Used
 
-- **Frontend**: JSP, HTML
+- **Frontend**: JSP
 - **Backend**: Java Servlets, JDBC
 - **Database**: MySQL
 - **Server**: Apache Tomcat
